@@ -12,8 +12,7 @@
 📧 jhangirmughal588@gmail.com  
 📞 +92 313 1569380  
 
-<a href=""> 🚀 Explore My Work
-</a> 
+
 [🌐 Portfolio](https://jhangirmughal.netlify.app/) •  
 [💼 LinkedIn](https://www.linkedin.com/in/jhangir-mughal-25b51827a) •  
 [💻 GitHub](https://github.com/FullStackLab-588?tab=repositories) •  
