@@ -82,13 +82,7 @@ Specialized in building modern, responsive web applications using **React, Next.
 - Delivered custom web applications  
 - Requirement analysis & system design  
 
----
 
-### 🎪 Hamza Tent Service — Part-Time Manager
-- Event management & logistics  
-- Customer handling & team coordination  
-
----
 
 ## 🚀 LIVE FRONTEND PROJECTS
 
@@ -104,7 +98,7 @@ https://multi-step-form-calculator.netlify.app/
 ### 🔗 Online Tutor Platform UI  
 https://online-tutor-platform.vercel.app/
 
-### 🔗 Senior HR Management System  
+### 🔗 Senior HR Portfolio
 https://senior-hr-mukhtiar-khan.netlify.app/
 
 ---
