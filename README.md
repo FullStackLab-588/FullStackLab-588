@@ -1,60 +1,121 @@
+
 <div align="center">
 
 <!-- TYPING HEADER -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Jhangir+Mughal;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications)
 
-</div>
-
-# 🔴 JHANGIR MUGHAL
+# 👨‍💻 JHANGIR MUGHAL
 
 ### 🔵 Frontend Developer | React | Next.js | TypeScript
 
-<p align="center" >
-Building fast, scalable, and user-focused web applications with clean UI and performance-first mindset.
-</p>
+📍 Havelian, Abbottabad, Pakistan  
+📧 jhangirmughal588@gmail.com  
+📞 +92 313 1569380  
 
-<p align="center" >
-  
-
-<a href="https://github.com/FullStackLab-588?tab=repositories"> 🚀 Explore My Work
+<a href=""> 🚀 Explore My Work
 </a> 
-<a href="https://jhangirmughal.netlify.app/">🌐 Portfolio</a> • 
-<a href="https://www.linkedin.com/in/jhangir-mughal-25b51827a">💼 LinkedIn</a> • 
-<a href="mailto:jhangirmughal588@gmail.com">📧 Email</a> • 
-<a href="https://github.com/FullStackLab-588">💻 GitHub</a>
-</p>
+[🌐 Portfolio](https://jhangirmughal.netlify.app/) •  
+[💼 LinkedIn](https://www.linkedin.com/in/jhangir-mughal-25b51827a) •  
+[💻 GitHub](https://github.com/FullStackLab-588?tab=repositories) •  
+[🚀 Live Projects](#-live-frontend-projects)
 
 ---
 
-## 🧑‍💻 ABOUT ME
+</div>
 
-- 🎓 Computer Science Graduate (CGPA: 3.63)
-- ⚡ Passionate Frontend Developer
-- 🚀 Focused on React, Next.js, TypeScript
-- 🎯 Love building real-world scalable applications
-- 🔥 Strong interest in UI/UX and performance optimization
+## 🧠 PROFESSIONAL SUMMARY
+
+Motivated Computer Science graduate with strong problem-solving and frontend development skills.  
+Specialized in building modern, responsive web applications using **React, Next.js, TypeScript, and Tailwind CSS**.
 
 ---
 
-## ⚙️ TECH STACK
+## 🎓 EDUCATION
 
-### 🔴 Core
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=00bfff)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-red?style=flat-square)
+**BS Computer Science** — University of Haripur  
+- CGPA: 3.63 / 4  
+- Final Year Project: Customer Segmentation using K-Means Clustering  
 
-### 🔵 Styling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00bfff?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square)
+**Intermediate (ICS)** — BISE Abbottabad  
+- Percentage: 87.27%  
 
-### ⚫ Tools
-![Git](https://img.shields.io/badge/Git-black?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-blue?style=flat-square)
-![Netlify](https://img.shields.io/badge/Netlify-red?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square)
+**Matric (Science)** — BISE Abbottabad  
+- Percentage: 79.45%  
+
+---
+
+## 🏅 CERTIFICATIONS
+
+- HTML, CSS, JavaScript — Johns Hopkins University (Coursera)  
+  https://www.coursera.org/account/accomplishments/verify/7ZQXL7AY78XX  
+
+- Machine Learning with Python — Coursera  
+  https://www.coursera.org/account/accomplishments/verify/R34JFMESD9BC  
+
+- Digital Literacy (Office Automation) — DigiSkills  
+  https://digiskills.pk/verify/ | ID: G3JWSJBPQ  
+
+- English for Career Development — FHI 360  
+
+---
+
+## ⚙️ TECHNICAL SKILLS
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS  
+**Languages:** C++, Python  
+**Databases:** MySQL, MongoDB  
+**Tools:** VS Code, Git, GitHub, Postman, Android Studio  
+**Other:** Problem Solving, UI/UX Thinking
+
+---
+
+## 🚀 EXPERIENCE
+
+### 🏢 Revnix Technologies — Frontend Developer (Apprenticeship)
+- React, Next.js, TypeScript development  
+- UI/UX to responsive web apps  
+- Production-level workflow experience  
+
+---
+
+### 🧑‍💻 Freelance Developer (2022–2025)
+- Built student Final Year Projects  
+- Delivered custom web applications  
+- Requirement analysis & system design  
+
+---
+
+### 🎪 Hamza Tent Service — Part-Time Manager
+- Event management & logistics  
+- Customer handling & team coordination  
+
+---
+
+## 🚀 LIVE FRONTEND PROJECTS
+
+### 🔗 Leno Business Landing Page  
+https://leno-web-by-jhangir.netlify.app/
+
+### 🔗 React Auth Dashboard  
+https://react-signup-login-jhangir.netlify.app/
+
+### 🔗 Multi-Step Form + Calculator  
+https://multi-step-form-calculator.netlify.app/
+
+### 🔗 Online Tutor Platform UI  
+https://online-tutor-platform.vercel.app/
+
+### 🔗 Senior HR Management System  
+https://senior-hr-mukhtiar-khan.netlify.app/
+
+---
+
+## 📌 CORE PROJECTS
+
+- Customer Segmentation (Machine Learning)
+- Smart Waste Management System (CNN + Flask + Android)
+- React Dashboard Applications
+- Business Landing Pages
 
 ---
 
@@ -62,71 +123,30 @@ Building fast, scalable, and user-focused web applications with clean UI and per
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FullStackLab-588&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=00bfff)
+![Stats](https://github-readme-stats.vercel.app/api?username=FullStackLab-588&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FullStackLab-588&theme=radical&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=FullStackLab-588&theme=radical)
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🤝 REFERENCES
+
+**Mr. Bilal Ahmad**  
+University of Haripur  
+bilalcuiatd@gmail.com  
+
+**Dr. Adeel Ahmed**  
+University of Haripur  
+adeel.ahmed@cs.qau.edu.pk  
+
+---
 
 <div align="center">
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+# 🔥 THANK YOU FOR VISITING 🔥  
+### Let’s build something amazing together 🚀
 
 </div>
 
----
-
-## 🎯 WHAT I DO
-
-- ✔ Build modern frontend applications  
-- ✔ Convert UI/UX designs into responsive websites  
-- ✔ Fix bugs & improve performance  
-- ✔ Create scalable React & Next.js apps  
-- ✔ Write clean and maintainable code  
-
----
-
-## 🎓 EDUCATION
-
-**🎓 BS Computer Science** — University of Haripur  
-CGPA: 3.63 / 4  
-
-**📘 Intermediate (ICS)** — BISE Abbottabad (87.27%)  
-**📗 Matric (Science)** — BISE Abbottabad (79.45%)
-
----
-
-## 🚀 PROJECTS
-
-- 🛍 Customer Segmentation (Machine Learning)
-- 🔥 Smart Waste Management System (CNN + Flask + Android)
-- 💼 Leno Business Landing Page
-- 🔐 React Auth Dashboard
-- 📚 Online Tutor Platform UI
-
----
-
-## 💼 EXPERIENCE
-
-### 🏢 Revnix Technologies
-Frontend Developer (Apprenticeship)
-
-- React, Next.js, TypeScript, Tailwind
-- UI development & responsive design
-- Real-world production workflow
-
-### 🧑‍💻 Freelance Developer
-- FYP development support
-- Custom web applications
-- Client-based projects
-
-
-<div align="center">
-
-# 🔥 THANK YOU FOR VISITING MY PROFILE 🔥
-
-</div>
