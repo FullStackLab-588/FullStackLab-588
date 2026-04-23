@@ -124,17 +124,7 @@ https://senior-hr-mukhtiar-khan.netlify.app/
 
 ---
 
-## 🤝 REFERENCES
 
-**Mr. Bilal Ahmad**  
-University of Haripur  
-bilalcuiatd@gmail.com  
-
-**Dr. Adeel Ahmed**  
-University of Haripur  
-adeel.ahmed@cs.qau.edu.pk  
-
----
 
 <div align="center">
 
