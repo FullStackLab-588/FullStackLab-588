@@ -122,20 +122,6 @@ Frontend Developer (Apprenticeship)
 - Custom web applications
 - Client-based projects
 
-### 🏬 Hamza Tent Service (Manager)
-- Event management & logistics
-- Booking & operations handling
-- Customer coordination
-
----
-
-## 🔴 DESIGN THEME
-
-- 🖤 Black → Background / Dark UI
-- 🔴 Red → Highlights / Energy
-- 🔵 Blue → Tech / Professional feel
-
----
 
 <div align="center">
 
